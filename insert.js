@@ -8,7 +8,7 @@ module.exports = function () {
     var formalTime = '08:15:00';//must be inserted by user
     var lastDay;
     var IDs = {
-      0: [],
+     
       1: [],
       2: [],
       3: [],
